@@ -1,0 +1,3 @@
+My favorite editor is JGrasp because it was the first editor I was introduced 
+for the first time, and it contains multiple languages. It is easy to use, it contains
+colors, and you can swich to dark mode which is very helpful.
